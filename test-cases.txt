@@ -1,4 +1,4 @@
 TC-01 | Login   | PASS
-TC-02 | Payment | TODO
+TC-02 | Payment | PASS
 TC-03 | Refund  | TODO
 TC-04 | Logout  | PASS
